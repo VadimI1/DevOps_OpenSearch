@@ -1,7 +1,7 @@
 import requests
 import random
 from fastapi import FastAPI, Query, HTTPException
-from typing import List, Optional
+from typing import Optional
 import os
 import uvicorn
 
