@@ -46,7 +46,7 @@ DevOps_OpenSearch/
 
 |Переменная|Описание|Значение по умолчанию|
 |-|--------|---|
-|```OPENSEARCH_HOST```|URL OpenSearch|```http://127.0.0.1:9200```|
+|```OPENSEARCH_HOST```|URL OpenSearch|```'http://localhost:9200```|
 |```OPENSEARCH_USERNAME```|Имя пользователя|```admin```|
 |```OPENSEARCH_PASSWORD```|Пароль|```adminpassword```|
 
